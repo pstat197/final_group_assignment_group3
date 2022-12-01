@@ -10,7 +10,7 @@ Contributors: Ellen Burrell, Brian Fan, Yuer Hao, and Ryan Stofer
 This Vignette offers a line by line demonstration of how to apply a Convolutional Neural Network (CNN) using a pokemon dataset. A CNN is a type of Nueral Network with a Convolutional layer, and it's purpose is to aid image classification by reducing the dimensionality of images without losing its information. The Convolutional layer applies a convolution operation, such as converting all the pixels in a receptive field into a single value, followed by a Pooling Layer, and Fully connected layer. We are able to develop a fully functional CNN with an accuracy of 77% for training and 67% for testing. 
 
 ## Repository contents
-Our Repository contents an example dataset called "pokemon.csv" that contains three variables (Name,Type1,Type2). Alongside the csv file is a folder called "images" that contains 100s of .png files of various pokemon. Our code demo will walk you through how connect how to use the csv file to classify the png files of pokemon.
+Our Repository contents an example dataset called "pokemon.csv" that contains three variables (Name,Type1,Type2). Alongside the csv file is a folder called "images" that contain around 800 .png files of various pokemon. Our code demo will walk you through how connect how to use the csv file to classify the png files of pokemon.
 
 ## References
 Here are some very helpful References!
